@@ -12,5 +12,9 @@ color:
     - '#E376B7'
 layout_spectrum: 0.3204754239413887
 name: Luxury Villa Retreats
+navigation:
+  - name: Luxury Villa Retreats Cyprus
+    url: 'http://cyprus-villa-retreats.com'
+    type: external
 title: gfkldjhkxu
 description: cyprus
